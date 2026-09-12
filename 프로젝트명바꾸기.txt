@@ -1,0 +1,8 @@
+💡 새 프로젝트 시작 시 필수 체크리스트템플릿을 복사해서 새 앱을 만들면
+ 프로젝트 이름이 여전히 flutter_template으로 되어 있습니다.
+ 이것만 본인의 새 앱 이름에 맞게 바꿔주시면 됩니다.
+ 
+ 가장 편한 방법: VS Code에서 Ctrl + Shift + F (전체 검색)를 누른 뒤 
+ flutter_template을 검색하여, 새로 만든 앱 이름(my_new_app)으로 
+ 전체 바꾸기(Replace All)를 실행해 줍니다. 
+ (pubspec.yaml 및 import 경로가 한 번에 바뀝니다.)
